@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "El Inquisidor y su Hereje",
+      "author": "Tamara Elizabeth",
+      "cover": "https://via.placeholder.com/150x230/8F00FF/ffffff?text=El+Inquisidor",
+      "description": "Una cautivadora historia de fantasía y misterio donde los secretos del pasado desafían las creencias del presente.",
+      "status": "ongoing",
+      "external_link": "https://www.tapas.io/",
+      "tags": ["fantasy", "enemies_to_lovers", "angst", "dark"]
+    },
+    {
+      "id": 2,
+      "title": "Lore Olympus",
+      "author": "Rachel Smythe",
+      "cover": "https://via.placeholder.com/150x230/BDE0FE/000000?text=Lore+Olympus",
+      "description": "Testigo de lo que los dioses hacen después del anochecer en esta reinterpretación moderna del mito de Perséfone y Hades.",
+      "status": "finished",
+      "external_link": "https://www.webtoons.com/",
+      "tags": ["romance", "historical", "drama", "emotional"]
+    },
+    {
+      "id": 3,
+      "title": "Solo Leveling",
+      "author": "Chugong",
+      "cover": "https://via.placeholder.com/150x230/121212/ffffff?text=Solo+Leveling",
+      "description": "En un mundo donde cazadores humanos deben luchar contra monstruos, el cazador más débil de todos recibe un poder inesperado.",
+      "status": "finished",
+      "external_link": "https://www.webtoons.com/",
+      "tags": ["action", "fantasy", "regression", "dark"]
+    }
+  ]
